@@ -9,20 +9,20 @@ remote_theme: "mmistakes/jekyll-theme-basically-basic"
 
 # Site Settings
 lang: en-US
-title: Basically Basic
-email: dugan.nash@mailinator.com
+title: Harrison Goeldner
+email: contact@goeldner.ca
 description: "Your new default Jekyll theme"
-baseurl: "/jekyll-theme-basically-basic"
-url: "https://mmistakes.github.io"
-repository: "mmistakes/minimal-mistakes"
+baseurl: ""
+url: "https://goeldner.ca"
+repository: "harrisongoeldner/goeldner"
 author:
-  name: Dugan Nash
-  twitter: Towlette_Pettetucci
+  name: Harrison Goeldner
+  twitter: _hgoeldner
   picture: /assets/images/johndoe.png
-twitter_username: Towlette_Pettetucci
-github_username: Towlette_Pettetucci
+twitter_username: _hgoeldner
+github_username: harrisongoeldner
 logo: /assets/icons/basically-basic-logo-light.svg
-google_analytics: UA-2011187-6
+google_analytics: 
 disqus:
   shortname:
 search: true
