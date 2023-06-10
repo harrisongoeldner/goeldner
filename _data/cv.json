@@ -32,13 +32,60 @@
       "company": "Trinity Western University",
       "position": "NSERC USRA Researcher",
       "website": "https://twu.ca",
-      "startDate": "2023-05-01",
+      "startDate": "May 2023",
       "endDate": "",
-      "summary": "Leverage agile frameworks to provide a robust synopsis for high level overviews. Iterative approaches to corporate strategy foster collaborative thinking to further the overall value proposition. Organically grow the holistic world view of disruptive innovation via workplace diversity and empowerment.",
+      "summary": "The rise in antimicrobial resistance has lead to the search for alternative solutions. We researched the efficacy of nano sized metal oxides against a range of bacteria known for their clinical and environmental impacts.",
       "highlights": [
         "Concealed nipper in embrodiery.",
         "Dealt with Elastical Gomez on a daily basis."
       ]
+    },
+    {
+      "company": "Township of Langley",
+      "position": "Lifeguard / Swim Instructor",
+      "website": "https://tol.ca",
+      "startDate": "Feb 2020",
+      "endDate": "",
+      "highlights": [
+        "Strategically work with a team of lifeguards to provide an effective and safe pool environment.",
+        "Enforce positive swim experience by positively teaching swimming to kids and adults."
+      ]
+    },
+    {
+      "company": "Trinity Western University",
+      "position": "Chemistry Grading Assistant",
+      "website": "https://twu.ca",
+      "startDate": "Sep 2022",
+      "endDate": "Apr 2023",
+      "highlights": [
+        "Developed classroom attendance and grading system which implemented into Moodle.",
+        "Managed the grading of over 1500 assignments per semester."
+      ]
+    },
+    {
+      "company": "Trinity Western University",
+      "position": "Microbiology Research Assistant",
+      "website": "https://twu.ca",
+      "startDate": "Feb 2022",
+      "endDate": "Apr 2023"
+    },
+    {
+      "company": "Trinity Western University",
+      "position": "Chemistry Laboratory Instructor",
+      "website": "https://twu.ca",
+      "startDate": "Sep 2021",
+      "endDate": "Dec 2023",
+      "highlights": [
+        "Oversaw 70+ students, organized and ran chemistry experiments.",
+        "Implemented digital attendance system into course"
+      ]
+    },
+    {
+      "company": "Township of Langley",
+      "position": "Recreation Facility Attendant",
+      "website": "https://tol.ca",
+      "startDate": "May 2019",
+      "endDate": "Feb 2020"
     }
   ],
   "volunteer": [
