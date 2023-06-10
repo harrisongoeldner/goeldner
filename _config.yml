@@ -21,7 +21,7 @@ author:
   picture: /assets/images/johndoe.png
 twitter_username: _hgoeldner
 github_username: harrisongoeldner
-logo: /assets/icons/basically-basic-logo-light.svg
+#logo: /assets/icons/basically-basic-logo-light.svg
 google_analytics: 
 disqus:
   shortname:
@@ -58,7 +58,7 @@ sass:
 
 # Outputting
 permalink: /:categories/:title/
-timezone: America/New_York # http://en.wikipedia.org/wiki/List_of_tz_database_time_zones
+timezone: America/Vancouver # http://en.wikipedia.org/wiki/List_of_tz_database_time_zones
 
 # Plugins
 plugins: # previously gems
