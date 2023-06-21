@@ -90,7 +90,7 @@ paginate_path: /page:num/
 
 # Collections
 collections:
-  projects:
+  recipes:
     output: true
     permalink: /:collection/:path/
 
@@ -105,8 +105,8 @@ defaults:
       read_time: true
   # _recipes
   - scope:
-      path: "_projects"
-      type: projects
+      path: "_recipes"
+      type: recipes
     values:
       layout: post
       read_time: true

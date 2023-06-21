@@ -1,18 +1,18 @@
 {
   "basics": {
     "name": "Harrison Goeldner",
-    "label": "Very extravagant man",
+    "label": "",
     "picture": "",
     "email": "contact@goeldner.ca",
-    "phone": "(555) 555-5555",
+    "phone": "(778) 826-1013",
     "website": "https://goeldner.ca",
-    "summary": "Nash is well versed in the Montoyan / Artesian Connection, preparation of grasshopper mash, and baking of grover loaves.",
+    "summary": "",
     "location": {
-      "address": "123 Sesame Street",
-      "postalCode": "CA 94115",
-      "city": "San Francisco",
-      "countryCode": "US",
-      "region": "California"
+      //"address": "123 Sesame Street",
+      //"postalCode": "CA 94115",
+      "city": "Langley",
+      "countryCode": "CA",
+      "region": "British Columbia"
     },
     "profiles": [
       {
@@ -21,9 +21,9 @@
         "url": "https://twitter.com/_hgoeldner"
       },
       {
-        "network": "SoundCloud",
-        "username": "Towlette_Pettetucci",
-        "url": "https://soundcloud.com/Towlette_Pettetucci"
+        "network": "",
+        "username": "",
+        "url": ""
       }
     ]
   },
@@ -36,8 +36,8 @@
       "endDate": "",
       "summary": "The rise in antimicrobial resistance has lead to the search for alternative solutions. We researched the efficacy of nano sized metal oxides against a range of bacteria known for their clinical and environmental impacts.",
       "highlights": [
-        "Concealed nipper in embrodiery.",
-        "Dealt with Elastical Gomez on a daily basis."
+        "Designed and carried out bacterial tests specific to antimicrobial testing.",
+        "Bacteria identification techniques such as MALDI-TOF or API."
       ]
     },
     {
@@ -90,25 +90,25 @@
   ],
   "volunteer": [
     {
-      "organization": "Steve's Meat Market",
-      "position": "Assistant",
+      "organization": "Trinity Western University",
+      "position": "AssistBSL-2 Biosafety Committee Student Representativeant",
       "website": "",
-      "startDate": "1995-01-01",
-      "endDate": "1997-03-20",
-      "summary": "Ground up some sort of grasshopper mash for fishing.",
+      "startDate": "Jan 2023",
+      "endDate": "",
+      "summary": "",
       "highlights": [
-        "Awarded a 'Helium Biscuit'"
+        ""
       ]
     }
   ],
   "education": [
     {
-      "institution": "University of Ointment",
-      "area": "Digital Skillets",
+      "institution": "Trinity Western University",
+      "area": "Biotechnology and Chemistry",
       "studyType": "Bachelor",
-      "startDate": "2011-06-01",
-      "endDate": "2014-01-01",
-      "gpa": "4.0",
+      "startDate": "Sept 2019",
+      "endDate": "May 2025",
+      "gpa": "3.7",
       "courses": [
         "DB1101 - Perpendicular Crosstalk",
         "CS2011 - Introduction to Moisturization"
@@ -153,7 +153,7 @@
   ],
   "languages": [
     {
-      "language": "Nonsense",
+      "language": "English",
       "fluency": "Native speaker"
     }
   ],
@@ -168,8 +168,8 @@
   ],
   "references": [
     {
-      "name": " Nannette Nananacci",
-      "reference": "It is my pleasure to recommend Dugan Nash, his performance working as a consultant for Main St. Company proved that he will be a valuable addition to any company."
+      "name": "May be aquired upon request.",
+      "reference": ""
     }
   ]
 }
